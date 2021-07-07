@@ -1,4 +1,6 @@
 # magentosh
-stuffs to do
-loop for more plays
-def get_selfHP
+Made in Python 3
+
+##There are many stuffs to do
+Like loop for more plays
+get_selfHP is not terminated
